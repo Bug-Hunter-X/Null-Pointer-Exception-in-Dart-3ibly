@@ -1,0 +1,2 @@
+# Dart Null Pointer Exception
+This repository demonstrates a common error in Dart: the null pointer exception.  The `bug.dart` file contains code that attempts to access a potentially null variable without a null check.  The solution is provided in `bugSolution.dart`.
